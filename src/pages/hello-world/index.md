@@ -1,9 +1,9 @@
 ---
-title: Hello World
+title: Come to an adventure
 date: "2018-06-30"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. 
+This would be the new text of the post. I hope i'll find a little bit more time to spend for my blog. In case, it would be a big challenge for me.
 
 <!-- end -->
 
